@@ -1,4 +1,4 @@
-# Hi there! <img position="right" src="[https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif](https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)" width="25"/>
+# Hi there! <img position="right" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="25"/>
 
 ![pato](https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)
 
