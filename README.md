@@ -1,6 +1,4 @@
-# Hi there! <img position="right" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="25"/>
-
-![pato](https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)
+## Hi there! <img src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" width="35"/>
 
 I'm Agustin, an analyst programmer currently finishing my degree in Computer Engineering. I'm looking for opportunities in software development where I can contribute with both my technical skills and my interest in team collaboration and organization. I enjoy creating solutions, tackling challenges, and continually learning new things.
 
