@@ -1,5 +1,4 @@
-# Hi there! <img position="right" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-<div class="tenor-gif-embed" data-postid="1825870582956664895" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dancing-duck-karlo-gif-1825870582956664895">Dancing Duck Karlo Sticker</a>from <a href="https://tenor.com/search/dancing+duck+karlo-stickers">Dancing Duck Karlo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hi there! <img position="right" src="[https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif](https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)" width="25"/>
 
 I'm Agustin, an analyst programmer currently finishing my degree in Computer Engineering. I'm looking for opportunities in software development where I can contribute with both my technical skills and my interest in team collaboration and organization. I enjoy creating solutions, tackling challenges, and continually learning new things.
 
