@@ -1,4 +1,4 @@
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# Hi there! <img position="right" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Agustin, an analyst programmer currently finishing my degree in Computer Engineering. I'm looking for opportunities in software development where I can contribute with both my technical skills and my interest in team collaboration and organization. I enjoy creating solutions, tackling challenges, and continually learning new things.
 
