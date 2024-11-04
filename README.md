@@ -1,5 +1,7 @@
 # Hi there! <img position="right" src="[https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif](https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)" width="25"/>
 
+![pato] (https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif)
+
 I'm Agustin, an analyst programmer currently finishing my degree in Computer Engineering. I'm looking for opportunities in software development where I can contribute with both my technical skills and my interest in team collaboration and organization. I enjoy creating solutions, tackling challenges, and continually learning new things.
 
 I approach problem-solving with a focus on finding effective solutions to technical challenges, whether it's in development or process optimization. I'm committed to continuously improving my skills to keep up with the fast pace of tech, and I value teamwork, enjoying the process of organizing and leading projects to achieve shared goals.
